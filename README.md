@@ -54,7 +54,7 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 3. Payment Fee Tax
 
-![Uploading 3_payment-fee-tax-settings.png…]()
+![3_payment-fee-tax-settings](https://github.com/patelanny/magento-2-payment-fee/assets/121279820/aff6e376-260d-461c-a120-879ba1001486)
 
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
