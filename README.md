@@ -44,7 +44,17 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 # Configuration
 
+1. Enable or disable the extension from here.
+   
 ![321](https://github.com/patelanny/magento-2-payment-fee/assets/121279820/d8fcdc19-dce4-4357-85f0-b7a0356179bf)
+
+2. Add Payment Fee
+
+![2_payment-fee-settings](https://github.com/patelanny/magento-2-payment-fee/assets/121279820/1dc6b1e7-63d9-449d-846c-e90917942379)
+
+3. Payment Fee Tax
+
+![Uploading 3_payment-fee-tax-settings.png…]()
 
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
